@@ -4,3 +4,4 @@ Assignment Links:
 2. bAmazon (Storzon) assignment link: https://github.com/Ansala/Amazon_StorZonMySQL
 3. FriendFiender assignment link: https://github.com/Ansala/FriendFinder
 4. Eat_Burger assignment link: https://github.com/Ansala/Burger
+5. News Scrape: https://github.com/Ansala/NewsScrape  ; heroku: https://peaceful-forest-20239.herokuapp.com/
